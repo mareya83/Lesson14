@@ -1,0 +1,19 @@
+homework
+1) Create git-repo 
+2) Create branches (and then push it into your GitHub account)
+3) On the QA branch organise your project (!main project)
+4) Build venv into your project 
+5) PIP : install pygames / then remove pygames (docs) => screenshot 
+6) 
+	Create class Employee ( { name , age , unemployed : False }) (anywhere) => and then
+
+	Create class QA => build there class QA 
+	Create class Developer => build there class Developer 
+
+ 	QA must inherit Employee class as a Developer
+
+6.1) Create instances of QA, Developer 
+6.2) Write function that : 
+7) Random quit someone , when someone lost => unemployed must to became to True
+
+USE : modules , packages , classes 
